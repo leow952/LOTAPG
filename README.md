@@ -1,6 +1,7 @@
 # LOTAPG - localization of the admin panel django
 
 Добовляем мультиязычность в штатную админ панель django
+![image](https://github.com/leow952/LOTAPG/blob/main/Скриншот_Выберите%20область_20210411124108.png)
 
 # 1 settings.py
 
